@@ -29,6 +29,8 @@ dev_dependencies:
 
 
 flutter:
+  assets:
+    - assets/Money.jpg
 
 
   uses-material-design: true
